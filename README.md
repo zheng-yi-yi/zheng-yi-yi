@@ -184,23 +184,31 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/zheng-yi-yi">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=zheng-yi-yi&show_icons=true&theme=transparent" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheng-yi-yi&layout=compact" alt="Image 1">
       </a>
     </td>
-    <td>
+    <td align="center">
       <a href="https://github.com/zheng-yi-yi">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheng-yi-yi&layout=compact" />
+        <img src="https://streak-stats.demolab.com/?user=zheng-yi-yi&theme=highcontrast" alt="Image 2">
       </a>
     </td>
-    <td>
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://github.com/zheng-yi-yi">
-        <img align="center" src="https://streak-stats.demolab.com/?user=zheng-yi-yi&theme=highcontrast" />
+        <img src="https://stats.justsong.cn/api/csdn?id=m0_62999278&theme=tokyonight" alt="Image 3">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zheng-yi-yi">
+        <img src="https://github-readme-stats.vercel.app/api?username=zheng-yi-yi&show_icons=true&theme=transparent" alt="Image 4">
       </a>
     </td>
   </tr>
 </table>
+
 
 <br/>
 
