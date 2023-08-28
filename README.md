@@ -162,16 +162,16 @@
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-</div>
+<!-- 个人简介 -->
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="60%">
 
 <!-- coders -->
-<p align="center">
 <img width="70%" height="auto" src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/welcome/coders.png" height="175px"/></a>
-</p>
-
 
 <!-- 分割线 -->
 <img width="200%" src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/welcome/br.gif" />
+
+</div>
 
 <!-- welcome to my profile -->
 <div align="center">
