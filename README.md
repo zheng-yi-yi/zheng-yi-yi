@@ -180,8 +180,40 @@
 
 # ⚡ github activity
 
-[![zhengyiyi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zhengyiyi&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/zheng-yi-yi">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=zheng-yi-yi&show_icons=true&theme=transparent" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/zheng-yi-yi">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheng-yi-yi&layout=compact" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/zheng-yi-yi">
+        <img align="center" src="https://streak-stats.demolab.com/?user=zheng-yi-yi&theme=highcontrast" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=zheng-yi-yi&theme=darkhub&column=7&margin-w=15&margin-h=15"/>
+
+<br/>
+
+<br/>
+
+[![zhengyiyi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zheng-yi-yi&theme=react-dark)](https://github.com/zheng-yi-yi)
+
+</div>
+
 <div align="center">
 <!-- just img 图片 -->
 <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/welcome/pic1.png"/>
