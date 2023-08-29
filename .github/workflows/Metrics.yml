@@ -22,7 +22,7 @@ jobs:
           # GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: zhengyiyi
+          user: zheng-yi-yi
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
