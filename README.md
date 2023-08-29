@@ -187,7 +187,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/zheng-yi-yi">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheng-yi-yi&layout=compact" alt="Image 1">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheng-yi-yi&layout=compact&hide=html" alt="Image 1">
       </a>
     </td>
     <td align="center">
@@ -204,7 +204,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/zheng-yi-yi">
-        <img src="https://github-readme-stats.vercel.app/api?username=zheng-yi-yi&show_icons=true&theme=transparent" alt="Image 4">
+        <img src="https://github-readme-stats.vercel.app/api?username=zheng-yi-yi&count_private=true&hide=contribs,issues&show_icons=true&theme=tokyonight" alt="Image 4">
       </a>
     </td>
   </tr>
