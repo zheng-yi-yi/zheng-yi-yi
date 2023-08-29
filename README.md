@@ -187,7 +187,7 @@
   <tr>
     <td align="center">
       <a href="https://github.com/zheng-yi-yi">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheng-yi-yi&layout=compact&hide=html" alt="Image 1">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zheng-yi-yi&layout=compact&hide=html,css" alt="Image 1">
       </a>
     </td>
     <td align="center">
