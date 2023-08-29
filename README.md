@@ -68,10 +68,12 @@
 <img align="right"  width="150" height="150" src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/welcome/Astronaut_computer.png" />
 
 <!-- START_SECTION:blog -->
-* <a href='https://juejin.cn/post/7260401019602223165' target='_blank'>Go语言上手 - 实战案例 | 青训营</a> - 2023-07-26
-* <a href='https://juejin.cn/post/7260024054066167866' target='_blank'>Go语言上手 - 基础语法 | 青训营</a> - 2023-07-26
-* <a href='https://juejin.cn/post/7160088791854612511' target='_blank'>【串】：一看就懂的KMP算法（六千字总结，多图预警）</a> - 2022-10-30
-* <a href='https://juejin.cn/post/7126467118652260388' target='_blank'>【CSS选择器小游戏】全部通关？那你这些知识点很扎实（上）</a> - 2022-07-31
+* <a href='https://juejin.cn/post/7272257829770903607' target='_blank'>  安全：防止SQL注入攻击（实践记录） | 青训营  </a> - 2023-08-28
+* <a href='https://juejin.cn/post/7271058595445260347' target='_blank'>  Go语言编码规范 | 青训营  </a> - 2023-08-25
+* <a href='https://juejin.cn/post/7270862391154327607' target='_blank'>  文件上传：基于Golang的Web应用实践记录 | 青训营  </a> - 2023-08-24
+* <a href='https://juejin.cn/post/7267349474971713571' target='_blank'>  GORM Quick Start（实践记录） | 青训营  </a> - 2023-08-15
+* <a href='https://juejin.cn/post/7260401019602223165' target='_blank'>  Go语言上手 - 实战案例 | 青训营  </a> - 2023-07-26
+* <a href='https://juejin.cn/post/7260024054066167866' target='_blank'>  Go语言上手 - 基础语法 | 青训营  </a> - 2023-07-26
 <!-- END_SECTION:blog -->
 </br>
 
