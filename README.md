@@ -192,7 +192,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/zheng-yi-yi">
-        <img src="https://streak-stats.demolab.com/?user=zheng-yi-yi&theme=highcontrast" alt="Image 2">
+        <img src="https://github-readme-stats.vercel.app/api?username=zheng-yi-yi&count_private=true&hide=contribs,issues&show_icons=true&theme=tokyonight" alt="Image 4">
       </a>
     </td>
   </tr>
@@ -204,8 +204,9 @@
     </td>
     <td align="center">
       <a href="https://github.com/zheng-yi-yi">
-        <img src="https://github-readme-stats.vercel.app/api?username=zheng-yi-yi&count_private=true&hide=contribs,issues&show_icons=true&theme=tokyonight" alt="Image 4">
+        <img src="https://streak-stats.demolab.com/?user=zheng-yi-yi&theme=highcontrast" alt="Image 2">
       </a>
+
     </td>
   </tr>
 </table>
