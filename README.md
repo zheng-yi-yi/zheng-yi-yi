@@ -40,15 +40,15 @@
     <!-- 1. 访客数统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=zhengyiyi&label=Views&color=0e75b6&style=flat" alt="访问量统计" />&emsp;
     <!-- 2. 个人博客（未完善） -->
-    <!-- <a href="---"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp; -->
+    <a href="https://www.zhengyiyi.cn/"><img src="https://img.shields.io/badge/Website-个人网站-blue" /></a>&emsp; 
     <!-- 3. 掘金 -->
     <a href="https://juejin.cn/user/1711264681167143/"><img alt="Static Badge" src="https://img.shields.io/badge/ByteDance-%E6%8E%98%E9%87%91-blue"></a>&emsp;
     <!-- 4. CSDN -->
     <a href="https://blog.csdn.net/m0_62999278/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp;
     <!-- 5. 知乎 -->
-    <a href="https://www.zhihu.com/people/yi-xun-34-50/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
+    <!--<a href="https://www.zhihu.com/people/yi-xun-34-50/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;-->
     <!-- 6. GitHub -->
-    <a href="https://github.com/zheng-yi-yi"><img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a> &emsp;
+    <!-- <a href="https://github.com/zheng-yi-yi"><img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat"></a> &emsp; -->
     <!-- 7. B站 （暂无）-->
     <!-- <a href="https://www.bilibili.com/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp; -->
 </p>
@@ -59,28 +59,6 @@
 </br>
 </td></tr>
 
-<!-- 
-<tr><td>
-
-近期博客
-
-# ✏️ Recent Blog
-
-<img align="right"  width="150" height="150" src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/welcome/Astronaut_computer.png" />
-
-<!-- START_SECTION:blog -->
-* <a href='https://juejin.cn/post/7272257829770903607' target='_blank'>  安全：防止SQL注入攻击（实践记录） | 青训营  </a> - 2023-08-28
-* <a href='https://juejin.cn/post/7271058595445260347' target='_blank'>  Go语言编码规范 | 青训营  </a> - 2023-08-25
-* <a href='https://juejin.cn/post/7270862391154327607' target='_blank'>  文件上传：基于Golang的Web应用实践记录 | 青训营  </a> - 2023-08-24
-* <a href='https://juejin.cn/post/7267349474971713571' target='_blank'>  GORM Quick Start（实践记录） | 青训营  </a> - 2023-08-15
-* <a href='https://juejin.cn/post/7260401019602223165' target='_blank'>  Go语言上手 - 实战案例 | 青训营  </a> - 2023-07-26
-* <a href='https://juejin.cn/post/7260024054066167866' target='_blank'>  Go语言上手 - 基础语法 | 青训营  </a> - 2023-07-26
-<!-- END_SECTION:blog -->
-</br>
-
-</td></tr> -->
-
-
 
 <tr><td>
 
@@ -90,10 +68,16 @@
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>《认知觉醒》：开放自我改变原动力</a> 
-* 原文摘抄：
-  * “模糊，正是人生困扰之源。而人生也像是一场消除模糊的比赛，谁的模糊越严重，谁就越混沌；谁的模糊越轻微，谁就越清醒。人生就是一场消除模糊的比赛，我们比拼的不仅仅是成长的速度，还有成长的模式。在这条赛道上，领先的群体都有意无意地做着同一件事；消除认知、情绪和行动上的模糊。”
-  * “阅读改变命运，就是从改变我们的认知和选择开始的。当我们知道的规律越多，就越能定位自己所处的阶段和位置、预估未来的结果，进而增强自己持续行动的耐心。毫无疑问，对外部世界的规律的认知能使我们耐心倍增。”
-  * “不发生改变的学习都是无效学习。”
+* **总结与心得**：
+  * 焦虑源于对多事同时进行、立即见效的渴望，耐心不是毅力，而是长远目光的体现。
+  * 个体间的差异并非年龄或经验，而是经验总结、反思和升华的能力。
+  * 行动力不足来自选择的模糊，认知越清晰，行动越果断。
+  * 刻意练习要素：明确目标、专注、反馈、在挑战中练习。
+  * 目标和过程的细化与具体化塑造单一通道，使自己始终处于“没得选”的状态。
+  * 身体感受是进入当下状态的最佳途径，专注力训练体现在感受事物消失的过程中。
+  * 面对天性，接纳自我；对抗诱惑，延迟满足；面对困难，转变视角，赋予行动意义。
+  * 分心走神因觉得当下无聊或痛苦，导致追求更有趣或舒适的事物，思想因身体受困于现实而自由驰骋。
+  * 提升思考能力需明确核心困难与心得感悟，并专注于之。
 <!-- END_SECTION:douban -->
 
 </td></tr>
@@ -107,35 +91,8 @@
     <a href="https://www.runoob.com/java/java-tutorial.html" target="_blank">
         <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/1-java-original.svg" alt="Java" width="50" height="50" />
     </a>
-    <a href="https://go.dev/" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/2-go-original.svg" alt="Go" width="50" height="50" />
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/3-c-original.svg" alt="C" width="50" height="50" />
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/4-cplusplus-original.svg" alt="C++" width="50" height="50" />
-    </a>
-    <a href="https://www.python.org" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/5-python-original.svg" alt="Python" width="50" height="50" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/6-mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/7-css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/8-html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
-    </a>
-    <a href="https://git-scm.com/" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/9-git-scm-icon.svg" alt="Git" width="50" height="50" />
-    </a>
-    <a href="https://hexo.io/zh-cn/" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/10-hexoio-icon.svg" alt="hexo" width="50" height="50" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/11-javascript-original.svg" alt="JavaScript" width="50" height="50" />
+    <a href="https://spring.io/" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/16-springio-icon.svg" alt="spring" width="50" height="50" />
     </a>
     <a href="https://www.linux.org/" target="_blank">
         <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/12-linux-original.svg" alt="linux" width="50" height="50" />
@@ -143,21 +100,48 @@
     <a href="https://www.nginx.com" target="_blank">
         <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/13-nginx-original.svg" alt="Nginx" width="50" height="50" />
     </a>
-    <a href="https://nodejs.org" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/14-nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
+    <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/6-mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
+    </a>
+    <a href="https://git-scm.com/" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/9-git-scm-icon.svg" alt="Git" width="50" height="50" />
+    </a>
+    <a href="https://www.w3schools.com/cpp/" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/4-cplusplus-original.svg" alt="C++" width="50" height="50" />
+    </a>
+    <a href="https://www.python.org" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/5-python-original.svg" alt="Python" width="50" height="50" />
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/7-css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/8-html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/11-javascript-original.svg" alt="JavaScript" width="50" height="50" />
+    </a>
+    <a href="https://hexo.io/zh-cn/" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/10-hexoio-icon.svg" alt="hexo" width="50" height="50" />
     </a>
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/15-react-original-wordmark.svg" alt="react" width="50" height="50" />
     </a>
-    <a href="https://spring.io/" target="_blank">
-        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/16-springio-icon.svg" alt="spring" width="50" height="50" />
-    </a>
     <a href="https://vuejs.org/" target="_blank">
         <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/17-vuejs-original-wordmark.svg" alt="vuejs" width="50" height="50" />
     </a>
-    <a href="https://webpack.js.org" target="_blank">
+    <!-- <a href="https://webpack.js.org" target="_blank">
         <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/18-webpack-original-wordmark.svg" alt="webpack" width="50" height="50" />
-    </a>
+    </a> -->
+    <!-- <a href="https://go.dev/" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/2-go-original.svg" alt="Go" width="50" height="50" />
+    </a> -->
+    <!-- <a href="https://www.cprogramming.com/" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/3-c-original.svg" alt="C" width="50" height="50" />
+    </a> -->
+    <!-- <a href="https://nodejs.org" target="_blank">
+        <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/icon/14-nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
+    </a> -->
 </p>
 
 ## 💬 Famous sentence quotation
@@ -227,7 +211,7 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center"> -->
 <!-- just img 图片 -->
-<img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/welcome/pic1.png"/>
-</div>
+<!-- <img src="https://github.com/zheng-yi-yi/zheng-yi-yi/blob/main/public/images/welcome/pic1.png"/> -->
+<!-- </div> -->
