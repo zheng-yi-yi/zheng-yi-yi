@@ -45,10 +45,10 @@
     <a href="https://github.com/zheng-yi-yi"><img alt="GitHub Badge" src="https://img.shields.io/badge/GitHub-zheng--yi--yi-181717?logo=github&logoColor=fff&style=flat"></a>&emsp;
 </p>
 <p>&emsp;&emsp;大家好，我是 <strong>翼同学</strong> 👋</p>
-<p>&emsp;&emsp;🏢 一名 <strong>全栈工程师</strong>，在一家外企工作，专注企业级自研平台的研发。</p>
-<p>&emsp;&emsp;🛠️ 负责平台的应用功能开发、生产问题支持、<strong>Release Management</strong> 与 <strong>CI/CD</strong>。</p>
-<p>&emsp;&emsp;📐 参与平台架构、开发规范及工程流程建设，持续提升稳定性与可维护性。</p>
-<p>&emsp;&emsp;📚 负责技术文档、开发者培训与知识分享，助力团队交付效率。</p>
+<p>&emsp;&emsp;🏢 一名 <strong>全栈工程师</strong>，在一家外企工作。</p>
+<p>&emsp;&emsp;🛠️ 负责自研平台的应用功能开发和部署、生产问题支持。</p>
+<p>&emsp;&emsp;📐 参与平台架构、开发规范及工程流程建设。</p>
+<p>&emsp;&emsp;📚 负责技术文档、开发者培训与知识分享。</p>
 <p><strong>&emsp;&emsp;Perfection is unattainable, but striving for it helps us achieve excellence. So keep going, making the world a better place.</strong></p>
 </br>
 </td></tr>
